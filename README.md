@@ -24,6 +24,12 @@ This repository is being built as a public working library. The first files will
 
 Adoption sticks when people inside the organization can explain, model, and support the change.
 
+## Repository structure
+
+- [Frameworks](./frameworks/ai-champion-program-framework.md)
+- [Templates](./templates/ai-champion-role-outline.md)
+- [Checklists](./checklists/adoption-program-checklist.md)
+
 ## Created by
 
 Suchetana Bauri  
